@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "869741388456",
+    "project_id": "kylo-d1aa0",
+    "storage_bucket": "kylo-d1aa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869741388456:android:b37afea25b3992a2c9589d",
+        "android_client_info": {
+          "package_name": "com.example.politician"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869741388456-ddodna4c2p3hncn8t6d4ic07oi56auod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.politician",
+            "certificate_hash": "6cbfa92e418a0d79e6c6103521fc8074bb6c92d3"
+          }
+        },
+        {
+          "client_id": "869741388456-oloh8qvmvgu7n34sg6p1rqah7cr1l255.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBjlyxxeeY7h0dSoA7eGtyG5resKvtGeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869741388456-oloh8qvmvgu7n34sg6p1rqah7cr1l255.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

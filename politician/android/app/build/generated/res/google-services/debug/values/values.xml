@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">869741388456-oloh8qvmvgu7n34sg6p1rqah7cr1l255.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">869741388456</string>
+    <string name="google_api_key" translatable="false">AIzaSyBBjlyxxeeY7h0dSoA7eGtyG5resKvtGeY</string>
+    <string name="google_app_id" translatable="false">1:869741388456:android:b37afea25b3992a2c9589d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBBjlyxxeeY7h0dSoA7eGtyG5resKvtGeY</string>
+    <string name="google_storage_bucket" translatable="false">kylo-d1aa0.appspot.com</string>
+    <string name="project_id" translatable="false">kylo-d1aa0</string>
+</resources>
